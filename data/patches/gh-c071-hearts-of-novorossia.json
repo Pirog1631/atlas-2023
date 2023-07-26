@@ -1,0 +1,32 @@
+{
+	"id": -1,
+	"name": "Hearts of Novorossia",
+	"description": "6 flags of Novorossian region:\n\nLuhansk People's republic\nKherson oblast\nRussian Federation\nZaporozhye oblast\nDonetsk People's Republic\nPridnestrovian Moldavian Republic",
+	"links": {},
+	"path": {
+		"251-255": [
+			[
+				-717,
+				-881
+			],
+			[
+				-717,
+				-871
+			],
+			[
+				-709,
+				-871
+			],
+			[
+				-709,
+				-881
+			]
+		]
+	},
+	"center": {
+		"251-255": [
+			-713,
+			-876
+		]
+	}
+}
